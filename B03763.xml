@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A godly sermon of Peter's repentance, after he had denyed his lord and master Jesus Christ, as it is in his repentance, he wept bitterly for his sins. / ... by a godly pastor.</title>
+            <author>Hart, John, D.D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03763</idno>
+            <idno type="STC">Wing H953AA5</idno>
+            <idno type="STC">ESTC R188198</idno>
+            <idno type="EEBO-CITATION">52612172</idno>
+            <idno type="OCLC">ocm 52612172</idno>
+            <idno type="VID">179466</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03763)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179466)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2789:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A godly sermon of Peter's repentance, after he had denyed his lord and master Jesus Christ, as it is in his repentance, he wept bitterly for his sins. / ... by a godly pastor.</title>
+                  <author>Hart, John, D.D.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The fourth ed. corrected and enlarged, and set forth for the good of all those that truly fear God.</edition>
+               </editionStmt>
+               <extent>[18] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed  by B.W. and are to be sold by Eliz. Andrews in Little Saint Bartholomews Court in West-Smithfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Hart by NUC pre-1956 imprints.</note>
+                  <note>Text in black letter.</note>
+                  <note>Advertisement: p. [18].</note>
+                  <note>Lacks signature A8.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Denial by Peter --  Sermons --  17th century.</term>
+               <term>Peter, --  the Apostle, Saint --  Sermons --  17th century.</term>
+               <term>Bible. --  N.T. --  Mark XIV, 68-70 --  Sermons --  17th century.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179466:1" rendition="simple:additions"/>
+            <p>A Godly Sermon OF PETERS Repentance, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fter he had denyed his Lord and Maſter Jeſus Chriſt, as it is in his Repentance, he wept bitterly for his ſins.</p>
+            <p>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fourth Edition, Corrected and enlarged, and ſet forth for the good of all thoſe that truly ſear God: By a godly Paſtor.</p>
+            <q>
+               <bibl>Matthew 26.75.</bibl>
+               <p>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Peter remembred the words of Jeſus, which he ſaid, before the Cock crow thou ſhalt deny me thrice: So he went out and wept bitterly.</p>
+            </q>
+            <q>
+               <bibl>Matthew 5.4.</bibl>
+               <p>Bleſſed are ye that mourn, for ye ſhall rejoyce.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>B.W.</hi> and are to be ſold by <hi>Eliz. Andrews</hi> in Little Saint. <hi>Bartholomews Court</hi> in <hi>Weſt-Smithfield.</hi> 1666.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:179466:2"/>
+            <pb facs="tcp:179466:2"/>
+            <epigraph>
+               <q>
+                  <bibl>Mark 14.68, 70.</bibl>
+                  <p>But he denied, ſaying, I know not, neither under<g ref="char:EOLhyphen"/>ſtand I what thou ſayeſt; and he went out into the porch, and the cock crew. And he denied it again. And a little after they that ſtood by, ſaid again to Peter, ſurely thou art one of them, for thou art a Galllean, and thy ſpeech agreeth thereto.</p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>PEter</hi> is called <hi>Simon,</hi> an obdient hearer, he is alſo called Peter, confident, and ſtrong in faith, like a Rock unmove<g ref="char:EOLhyphen"/>able; <hi>Thou art Peter, and upon his Rock will I build my Church that the gates of hell ſhall not prevail againſt it. Matth. 16.18.</hi> He was pe<g ref="char:EOLhyphen"/>nitent, the words now read unto you do prove the ſins: for after he had ſinned he went out: O that every Chriſtian were qualified like <hi>Pe<g ref="char:EOLhyphen"/>ter,</hi> thoſe that craves repentance and faith, and obedience, are better welcome to God then the thr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e preſents given by the Wiſe men unto Chriſt, <hi>Matth. 2.1.</hi> Precious about was not ſo much accepted a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Peters</hi> Repentance. Gold, Frankincence, and Myrshe are not ſo precious
+<pb facs="tcp:179466:3"/>as <hi>Peters</hi> Repentance to Godward; for he wept bitterly for denying his Lord and maſter Jeſus Chriſt: <hi>Mark 14.71. But he began to curſe and to ſwear, ſaying, I know not this man of whom ye ſpeak.</hi> So ſoon as he has learned to lye, he had learned to ſwear; they are inſeparable companions, and as I may ſay ſworn brethren, that alwayes meet together the ſinful ſocie<g ref="char:EOLhyphen"/>ty: We never read of <hi>Peters</hi> ſweating any where elſe, yet hereupon a ſudden, oathes, and curſes ſhe wed themſelves. No ſooner <hi>Ham</hi> ſpied <hi>Noahs</hi> nakedneſs, <hi>Gen. 9.22. Curſed be Canaan a ſervant of ſervants ſhall he be.</hi>
+            </p>
+            <p>So he went out: This Text affords us thrée ſpecial Notes being very remarkable in <hi>Peters</hi> repentance, <hi>1.</hi> Remembrance of ſin. <hi>2.</hi> Remorſe of ſin, <hi>3.</hi> Sorrow for ſin. All of which ought to accompany a godly and ſincere Convert in turning from his evil wayes.</p>
+            <p>Thus having found out the mine, let us now dig for the treaſure: <hi>So he went out:</hi> He was careleſs till the Cock warned him, thereby learning, that the firſt ſtep to repentance is the remembrance of ſin, and therefore <hi>David ſaith Pſal. 51.3. My ſins are before me. Moſes</hi> charged the people to remember their ſins, and there he put them in remembrance, how oft they pro<g ref="char:EOLhyphen"/>voked the Lord, by that means calling them to repentance, <hi>Deut. 9.7.</hi> He went out: another
+<pb facs="tcp:179466:3"/>ſtep of <hi>Peters</hi> Repentance, he firſt weighed his ſin: mark <hi>Noah,</hi> and in the meditation thereof now onely naked and bare, but he was wakened from his former drowſineſs and ſlumber of ſin. <hi>He went out;</hi> wherein obſerve the effectual operations of Gods Spirit in the Children of God after we have ſinned, ſpiritu<g ref="char:EOLhyphen"/>ally the grace of God calleth us home again, and ſuffereth us not to reſt; like the Dove that was ſent out from <hi>Noah</hi> found no reſt, <hi>Gen. 8.9.</hi> Nor can <hi>Peter</hi> now finde any reſt, till he had found Chriſt by Repentance. whom he had loſſ by Denial: <hi>Peters</hi> ſin was great, is was no ſmall bait that Satan laid in his way, for great is the danger; for what greater advan<g ref="char:EOLhyphen"/>tage could Satan elſe have wiſhed then this, had not the aſſiſting hand of Gods mercies ſtaid him up after his fall for his own glory, and to the unſpeakably comfort of the Godly, who though they fall, can never fall away; for the promiſe of God ſtandeth ſure, and hath this ſeal, <hi>God knoweth who are his.</hi> our Sa<g ref="char:EOLhyphen"/>viour Chriſt ſaith, <hi>Of thoſe whom thou haſt gi<g ref="char:EOLhyphen"/>ven me I have loſt none of them, ſave the ſon of perdition. John 17.12.</hi> He went out as <hi>Iſaac</hi> went out into the fled to pray. <hi>Gen.</hi> 24.63. ſo <hi>Peter</hi> went out to meditate and conſider what, he had done, <hi>Luke 22.62. Peter went out and wept bitterly;</hi> the faithful ſoul when it is deſirous
+<pb facs="tcp:179466:4"/>to enter into any holy conſultation, or confe<g ref="char:EOLhyphen"/>rence covets to be alone, like Chriſt in the de<g ref="char:EOLhyphen"/>ſart, Matth. <hi>4.1. Jacob</hi> being alone wreſtled with the Angel, and prevailed for a Bleſſing, <hi>Gen. 32.24. Jonah</hi> went out of the City <hi>Nine<g ref="char:EOLhyphen"/>ve</hi> to mourn over it, as it is in <hi>Jonah 1.5.</hi> now <hi>Jonah</hi> preached in <hi>Nineve,</hi> that within forty dayes it ſhould be deſtroyed, and they repented. <hi>Moſes</hi> was bid to pull of his ſhooes when he paſſed over the flaming Buſh, <hi>Exodus 3.5.</hi> ſo we muſt put off our ſhooes of carnality, and go out from our ſelves, as the Adder taketh his ſlough, if we will tread upon holy ground, and preſs to come where God is. <hi>Peter</hi> ſo long as he ſtaid in the High Prieſts Hall among the Enemies of Chriſt; he became as one of them, and had quite forgotten that Chriſt was his maſter; or he was ſolitary, and ſo denied him whom a little before he promiſed to are for.</p>
+            <p>O what have I done miſerable man that I am! how dangerouſly have I fallen in denying him the Lord of life, and my Lord. I a rebelli<g ref="char:EOLhyphen"/>ous ſinner to deny him that framed me, and by his truth redéemed me: and was I in wicked, if all the world were offended, yet would not I be offended; yea, I was ready to lay down my life for Chriſt my Lord: and yet before the Cock crew twice, I had denied him three times, <hi>Matth. 26.33</hi> O perjured wretch that I
+<pb facs="tcp:179466:4"/>am! how heavy have I tranſgreſt my faith, by denying him that died for me; I that thought my ſaith ſtrong enought to encounter with the whole world, moſt ſhamefully inſtored a wo<g ref="char:EOLhyphen"/>man, and the weaker veſſel to diſcountenance me. Is not this to be offended? And is this to give my life to my maſter? Nay is not this to forſake him quite, and to joyn with the wicked? I denied him whome my ſoul loved beſt: for which my name deſerves to go with the brand upon it, as that of <hi>Jereboam</hi> goes with his train, <hi>Peter</hi> confeſſeth his train of ſins, and <hi>Jeroboam</hi> by name cannot onely be mentioned, but his ſins muſt be likewiſe here numbred. <hi>Jeroboam</hi> goes with his train, <hi>Jeroboam that made Iſrael to ſin:</hi> And <hi>Peter</hi> deſir<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to have his train too, <hi>Peter</hi> that denied his maſter; from henceforth <hi>Peter</hi> repented him of his hanious ſins he committed in denying his Lord and Maſter Ieſus Chriſt.</p>
+            <p>Let us all repent with <hi>Peter,</hi> that God may give us the earneſt of his grace in our hearts for ever: St. <hi>Paul</hi> ſaith, <hi>Heb. 6.6. He that ſin<g ref="char:EOLhyphen"/>neth crucifieth the Son of God again;</hi> ſo did <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> by denying his Lord and Maſter, <hi>Peters</hi> faith was wadering faith, had not God looked again upon him with the eyes of mercy and tender compaſſion, heaſſured that <hi>Peter</hi> had fallen from light into utter darkneſs and
+<pb facs="tcp:179466:5"/>damnation, had not he truly repented with an unfeigned repentance; <hi>Pſal 71.9. Caſt me not away in the time of age, forſake me not when my ſtrength faileth me:</hi> Here we may ſee how the Prophet cryes to God for mercy, as <hi>Peter</hi> did, cry and weep with a moſt exceeding weeping for denying his Lord and Maſter. <hi>Gen. 27.34. And when Eſau heard the words of his Father, he cried with a great and exceeding bitter cry, and ſaid unto his Father, Bleſs me, even me alſo, O my Father:</hi> Theſe are the words of <hi>Eſau</hi> the eldeſt Son of <hi>Iſaac,</hi> but the youngeſt in faith to God-ward. Bleſſed be thou which art the trium<g ref="char:EOLhyphen"/>phant Conquerour of Hell, <hi>Hoſea 13.14.</hi> the vanquiſher of the Devil, <hi>Matth 4.10.</hi> the cen<g ref="char:EOLhyphen"/>querour and deſtroyer of death, <hi>1 Cor. 15.55.</hi> and Redéemer of them that were in darkneſs, and in the ſhadow of death, <hi>Luke 1.79.</hi> All ye that be thirſty come unto the water, and you that have neither Gold nor Silver come and receive all theſe precious treaſures free with<g ref="char:EOLhyphen"/>out paying any thing, <hi>Iſa. 51.5.</hi> This is the water of life which ſprings out of the everla<g ref="char:EOLhyphen"/>ſting Rock, the Rock of def<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce to all that be<g ref="char:EOLhyphen"/>lieves in Chriſt our Lord, who is the enduring Rock of our Salvation in this world, and in the world to come. <hi>Amen.</hi>
+            </p>
+            <p>But now <hi>Peter</hi> wept for his ſins, and confeſ<g ref="char:EOLhyphen"/>ſed his faults before God by repenting of his
+<pb facs="tcp:179466:5"/>ſinful actions which he had committed againſt God; he was taken for one of evil behaviour, and as one that kept evil company, for they ſaid, he receiveth ſinners, and eateth with them, <hi>Matth. 11.19.</hi> This of the lowlineſs and méekneſs of our Lord and bleſſed Redéem<g ref="char:EOLhyphen"/>er, who hath redéemed us from all evil, and looked upon <hi>Peter</hi> in mercy and love; for if Chriſt had not called <hi>Peter</hi> by repentance, <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> had been a damned Creature for falling into ſo great a ſin, for he did utterly deny Chriſt by lying and ſinearing, which are great ſins, and without Repentance cannot be forgiven. Chriſt hath commanded us to repent, <hi>Matth. 3.2. And ſaying, Repent ye, for the Kingdom of hea<g ref="char:EOLhyphen"/>ven is at hand:</hi> And again ver. <hi>17. At that time Jeſus began to preach, and to ſay, Repent, for the Kingdom of heaven is at hand.</hi>
+            </p>
+            <p>My Brethren, here you may ſee how theſe places of Scriptures agrée in one point, ſo muſt our mindes be agreeable to the will of God; that we may walk in the light while we have light, and to walk in the Laws and Com<g ref="char:EOLhyphen"/>mandments of the moſt high God: <hi>Matth. 5.16. Let your light ſo ſhine before men, that they may ſee your good works, and glorifie your Father which is in heaven.</hi>
+            </p>
+            <p>And let us make a good end by Repentance; <hi>I heard a voice from Heaven, ſaying, bleſſed are
+<pb facs="tcp:179466:6"/>they that die in the Lord, henceforth, even ſo ſaith they Spirit, that they reſt from their labour and ſorrow, and their works ſhall follow them, Rev. 14.13.</hi> Here we may ſée that God bleſſeth thoſe that fears him even unto death, that he might give them eternal life: <hi>When Chriſt who is our life ſhall appear then ſhall we alſo appear with him in glory:</hi> this is the hope of the Saints, and all the Elect People of God; <hi>Matth. 10 22. He that endureth to the end ſhall be ſaved. Rev. 2.10. Be thou faithful unto death, and I will give thee a Crown of Life.</hi>
+            </p>
+            <p>
+               <hi>Peter</hi> was faithful unto death, by repenting him of his ſins: <hi>And Peter went out and wept bitterly:</hi> So <hi>Peter</hi> repented with a faithful re<g ref="char:EOLhyphen"/>pentance; <hi>Then Peter ſaid unto them, Repent And be baptized every one of you in the name of Ieſus Chriſt for the remiſſion of ſins, and ye ſhall receive of the Holy Ghoſt.</hi> This <hi>Peter</hi> it was that denied Chriſt, but now doth plainly de<g ref="char:EOLhyphen"/>clare him to all people: here is the unworthi<g ref="char:EOLhyphen"/>neſs of choſe that look back by ſin: And on the other ſide, <hi>No man that putteth his hand to the plough, and looketh back, is ſir for the kingdom of God, Luke 9.62.</hi> But <hi>Peter</hi> looked back by denying his Lord and Maſter Ieſus Chriſt; it is a moſt certain truth that God hath given unto us eternal life; to this is as certain, that this life is in his Son; and in the next verſe.
+<pb facs="tcp:179466:6"/>
+               <hi>He that hath the Son hath life, and he that hath not the Son hath not life, 1 John 5.11, 12.</hi>
+            </p>
+            <p>Now we may ſée how bleſſed a thing it is to have the Son of God in our hearts by faſting, and prairs, and by faith and truth; he that hath faith hath life eternal for evermore in the Kingdom of Heaven. The Prophet <hi>Davids</hi> prayer, or Arithmetick, is thus termed: <hi>Teach us, O Lord to number our dayes, that we may apply our hearts unto wiſdom, Pſal. 90.12.</hi>
+            </p>
+            <p>
+               <hi>Peter</hi> wept, becauſe for the weight of grief and ſorrow, in denying his Lord and Maſter Ieſus Chriſt, which made him for doing that héed ſay, Troubles have compaſſed me round about, my heart is vexed and troubles, my ſins are alwayes before mine eyes, which do grie<g ref="char:EOLhyphen"/>vouſly forment my conſcience, and labour to beat me down to Hell, there is no peace for the terrour of the Lord; I refuſe to be com<g ref="char:EOLhyphen"/>forted. I am troubled, and my ſpirit doth af<g ref="char:EOLhyphen"/>flict me, I ſee no place where unto I may flye and ſeek a remedy for my ſins.</p>
+            <p>But <hi>Peter</hi> denied his Maſter for frar, <hi>Peter</hi> then denied again, and immediately the Cock crew: <hi>Then ſaid the Damſel that kept the door unto peter, are not thou alſo one of this mans Diſ<g ref="char:EOLhyphen"/>ciples? He ſaith, I am not; but denied, ſaying, I know not the man neither underſtand I what thou ſayeſt: And he were our into the porch, and the
+<pb facs="tcp:179466:7" rendition="simple:additions"/>Cock crew, but he began to curſe and to ſwear, ſaying, I know not this man of whome ye ſpeak.</hi> When <hi>Peter</hi> had gotten ſome feeling in his Conſcience, he went out and wept bitterly. <hi>1 Cor. 15.34. Awoke to righteouſneſs, and ſin not: for ſome have not the knowledge of God, I ſpeak this to your ſhame. Ezek. 16.63. That thou mayeſt remember and be aſhamed, and never open thy mouth more.</hi>
+            </p>
+            <p>Thus <hi>Peter</hi> is rejected for his ſwearing and lying, as it to in <hi>Rev. 21.27. And there ſhall in no wiſe enter into it anything that defileth, nei<g ref="char:EOLhyphen"/>ther whatſoever worketh abomination, or maketh a lye.</hi> When Satan had tempted <hi>Peter</hi> to ſwear, he tempted him to lye; if <hi>Peter</hi> had not ſpeedily repented, he had been a loſt man; but we read that Chriſt had mercy upon him, and called him from the errour of his wayes, and from that ſinful deed.</p>
+            <p>Repentance is a turning to men, we muſt not be aſhamed to acknowledge our faults one to another, <hi>James 5.16. Confeſs your faults one to another, and pray one for another; and in ſo doing men may know that ye are my Diſciples:</hi> So that we ought to pray for one another, and on the contrary, we had rather curſe one an<g ref="char:EOLhyphen"/>other; but woe unto them that do ſo, for Hell fire is prepared for the tormenting of their ſouls, being in that gulf of woe everlaſtingly
+<gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+               <pb facs="tcp:179466:7"/>how doeſt thou expect to have Chriſt thy Re<g ref="char:EOLhyphen"/>deemer and Advocate, when thy Conſcience tells thee, that thou haſt ſeldom remembred him but in thy Oaths to blaſpheme him; and oftener named him in thy Oaths and Curſes, then in thy Prayers; ſurely if I did ſwear faith &amp; troth, this ſwearing made many ſinful ſouls to fall into Hell headlong; and if <hi>Peter</hi> had not ſpeedily repented, he had fallen into Hell torments, where there is nothing but howling gnaſhing of teeth, miſery, and lament<g ref="char:EOLhyphen"/>ing for ever.</p>
+            <p>It is ſaid in <hi>Levit. 19.17. Thou ſhalt not hate thy brother in thine heart, thou ſhalt in any wiſe rebuke him, and not ſuffer ſin upon him:</hi> So <hi>Peter</hi> was rebuked of his Conſcience, it tells him that he had wickedly ſinned by denying his Lord and Maſter Ieſus Chriſt: That is your groſs ignorance of the Scriptures, for the Scriptures teacheth us to fear God; for God expreſly forbids ſwearing, and that upon pain of damnation: <hi>James. 5.12. My brethren ſwear not neither by heaven, neither by earth, neither by any other Oath, but let your yea be yea and your nay nay, leſt you fall into condemnation.</hi> Firſt, our Saviour Chriſt in his own perſon forbids it, <hi>Matth. 5.34, 35, 36, 37. I ſay unto you ſwear not it all, neither by heaven, for it is Gods throne, nor by the earth, for it is his footſtool, nor by Jeru<g ref="char:EOLhyphen"/>ſalem,
+<pb facs="tcp:179466:8"/>for it is the City of the great king: neither ſhalt thou ſwear by thine head, becauſe thou canſt not make on hair white or black; but let your Communication be yea, yea, nay, nay: for what<g ref="char:EOLhyphen"/>ſoever is more then theſe commeth of evil:</hi> And then by his Apoſtle; <hi>Above all things my bre<g ref="char:EOLhyphen"/>thren ſwear not, neither by heaven, nor by earth, nor by, any other oath, but let your yea, be yea, and nay, nay leſt ye fall into condemnation, Jam. 5.12.</hi> Where mark the Emphaſis in the firſt words, <hi>Above all things ſwear not: and</hi> the greater danger of it in the laſt words, <hi>left ye fall into condemnation:</hi> for woe and ſorrow will be in the end.</p>
+            <p>If the matter be light and vain we muſt not ſwear at all, if weighty, that we may lawfully ſwear; as before a Magiſtrate being called to it, when we muſt onely uſe the glorious name of our God in a holy and riligious manner, as you may ſee <hi>in Deut. 6.12. Iſa. 45.23. &amp; Iſa. 65.16. Joſhuah 23.7. Exodus 23.13. Jer. 5.7.</hi> And the Reaſons are weighty if we look into them; for in ſwearing by any creature what<g ref="char:EOLhyphen"/>ſoever we do invocate that Creature, and aſcribe unto it Divine Worſhip: yea, whatſo<g ref="char:EOLhyphen"/>ever we ſwear by, that we invocate hath our Wittneſs, Surety, and Iudge, <hi>Heb. 16. and</hi> by conſequence deiſte it by aſcribing and commu<g ref="char:EOLhyphen"/>nicating unto it Gods incommunicable Attri<g ref="char:EOLhyphen"/>butes,
+<pb facs="tcp:179466:8"/>and his omnipreſence, and ominiſcienty, of being every where preſent, and knowing the ſecret thoughts and intentions of the heart; and likewiſe an omnipotency, and as being al<g ref="char:EOLhyphen"/>mighty in patronizing, protecting, defending, and rewarding us for ſpeaking the truth, or puniſhing us if we ſpeak falſely: all which are ſo peculiar to God, as that they can no way be communicated or aſcribed to another; ſo that in ſwearing by any of theſe things, thou com<g ref="char:EOLhyphen"/>mitteſt Idolatry in an high degree, and thou ſpoileſt and robbeſt God of his glory, the moſt impious kinde of theft; and in a mamier de<g ref="char:EOLhyphen"/>throneſt him, and makeſt an Idol in his room. And as to ſwear by the Creature makes the ſin more hanious; ſo the more meane and vile the thing is which you ſwear by, as by my fey, by Cock, and by Hares foot, and by this Cheeſe, and ſuch like childiſh oathes, which are ſo much in uſe with the ignorant and ſuperſtitious people the greater is your ſin in ſwearing ſuch an oath, becauſe you aſcribe that unto theſe the baſeſt of Creatures, which is onely propper to God, namely, to know the heart, and to be a diſcerner of ſecret things; why elſe ſhould you call that Creature as a wittneſs unto your con<g ref="char:EOLhyphen"/>ſcience, that you ſpeak the truth, and lye not, which onely belongeth to God: and therefore the Lord calls it a forſaking of him, as you may
+<pb facs="tcp:179466:9"/>ſee what he ſaith, <hi>Jer. 5.7. How ſhall I ſpare thee for this? thy children hath forſaken me, and ſworn by them that are no gods:</hi> And to make it a ſmall matter to forſake God, and to make a god of the Creature, will you believe the Pro<g ref="char:EOLhyphen"/>phet <hi>Amos?</hi> if you will, he ſaith ſpeaking of <hi>them that ſwore by the ſins of Samaria, that they ſhould fall, and never riſe again, Amos 8.14. a terrible place to</hi> vain ſwearers. But <hi>Peter fell</hi> and roſe again by faith.</p>
+            <p>Neither are we to joyn any other with God in our Oathes, for in ſo doing we make Gods of the ſilly Creatures; for <hi>Peter</hi> wept ſor<g ref="char:EOLhyphen"/>rowfully for his ſin and offence which he had committed againſt Chriſt his Lord and Ma<g ref="char:EOLhyphen"/>ſter; and becauſe he repented, God granted him mercy and forgiveneſs for all his offences, which he had committed againſt him by deny<g ref="char:EOLhyphen"/>ing him with an oath, and curſing, and lying: ſo that <hi>Peters</hi> Conſcience told him, that he was a great ſinner in ſo doing, but he repented with a tender Conſcience, <hi>and he wept bitterly,</hi> Repentance goeth before ſalvation, and ſal<g ref="char:EOLhyphen"/>vation worketh the ſouls everlaſting joyes in the Kingdom of Heaven for evermore.</p>
+            <p>
+               <hi>And a maid ſaw him again, and began to ſay unto them that ſtood by, this is one of them; and he de<g ref="char:EOLhyphen"/>nied it again, and a little after they that ſtood by ſaid again to Peter, ſurely thou art one of them
+<pb facs="tcp:179466:9"/>for thou art a Galilean, and thy ſpeech agreeth thereto; but he began to curſe and to ſwear, ſay<g ref="char:EOLhyphen"/>ing, I know not this man of whom ye ſpeak; and the ſecond time the Cock crew, and Peter called to minde the words that Jeſus ſaid unto him before the Cock crow twice thou ſhalt deny me thrice: And he went out and wept biterly. Peters</hi> heart miſgave him, he ſinned in ſo doing, and he wept for it bitterly; we have a command from God to ſhun all devices of evil works: Saint <hi>Paul</hi> ſaith, <hi>Rom. 6.23. For the wages of ſin is death, but the gift of God is eternal life, through Jeſus Chriſt our Lord.</hi> Neither muſt we ſwear at all in our ordinary communication, if we will obey Gods word, as you may ſee, <hi>Matth. 5.34, 35. 36, 37. James 5.12.</hi> And <hi>as it is in Exod. 23.2. Thou ſhalt not follow a multitude to do evil</hi> And St. <hi>Pauls</hi> everlaſting Rule is, <hi>Rom. 12.2. Fa<g ref="char:EOLhyphen"/>ſhion not your ſelves according to this world, for this world paſſeth away, and the glory thereof:</hi> For as St. <hi>John</hi> ſaith, <hi>Whoſoever denieth the Son, the ſame denieth the Father; but he that ac<g ref="char:EOLhyphen"/>knowledgeth the Son hath the Father:</hi> But <hi>Peter</hi> denied God the Son, then he muſt needs deny God the Father, and God the Holy Ghoſt; for as Chriſt ſaith, <hi>He that ſinneth againſt the Son of man it ſhall be forgiven him; but he that ſinneth againſt the Holy Ghoſt, it ſhall not be forgiven him;</hi> neither ſhall there be any remiſſion of
+<pb facs="tcp:179466:10"/>ſins for that poor ſoul: <hi>'Tis a fearful thing to fall into the hands of the living God. Heb. 10.31. Stand in awe therefore, and ſin not, Pſalm 4.4. 2 Tim. 2.22. Let him that thinketh he ſtandeth take heed leſt he fall.</hi> And therefore flee from youthful luſts, for it is a fearful thing to fail in<g ref="char:EOLhyphen"/>to the hands of the living God: For the co<g ref="char:cmbAbbrStroke">̄</g>ming of our Lord Ieſus Chriſt draweth nigh, when he ſhall come with his mighty Angels in Glory, Honour, and Power, and Majeſty everlaſt<g ref="char:EOLhyphen"/>ingly to all. Conſider what hath been de<g ref="char:EOLhyphen"/>livered, and the Lord give you underſtanding hearts in all things. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
